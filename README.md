@@ -6,7 +6,7 @@
 `Multi-agent orchestration`
 `No code`
 
-<img width="1010" alt="Screenshot 2025-10-01 at 11 00 48 AM" src="https://github.ibm.com/skol/agentic-ai-client-bootcamp/assets/12043/a2a5dd2f-675c-4e5b-ad90-b7a90c92c7f3">
+<img width="1010" alt="Screenshot 2025-10-01 at 11 00 48 AM" src="https://github.com/guptasim8/-Agentic-Competitive-Insights/assets/12043/a2a5dd2f-675c-4e5b-ad90-b7a90c92c7f3">
 
 
 ## 🤔 The Problem
@@ -19,7 +19,7 @@ ABC Robots' sales department faced challenges in preparing sales proposals for t
 
 - Slow response to market changes without real-time intelligence.
 
-<img width="1187" alt="Screenshot 2025-10-01 at 10 58 12 AM" src="https://github.ibm.com/skol/agentic-ai-client-bootcamp/assets/12043/c4004e3b-5d28-4fda-8069-1896ae996e9c">
+<img width="1187" alt="Screenshot 2025-10-01 at 10 58 12 AM" src="https://github.com/guptasim8/-Agentic-Competitive-Insights/assets/12043/c4004e3b-5d28-4fda-8069-1896ae996e9c">
 
 
 ## 🎯 Objective
