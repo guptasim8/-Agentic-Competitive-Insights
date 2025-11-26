@@ -6,7 +6,7 @@
 `Multi-agent orchestration`
 `No code`
 
-<img width="1010" alt="Screenshot 2025-10-01 at 11 00 48 AM" src="https://github.com/guptasim8/-Agentic-Competitive-Insights/assets/12043/a2a5dd2f-675c-4e5b-ad90-b7a90c92c7f3">
+<img width="1010" alt="Screenshot 2025-10-01 at 11 00 48 AM" src="https://github.com/guptasim8/-Agentic-Competitive-Insights/blob/main/assets/39d11294-f75d-482d-a94d-80e0511a5aa7.png)">
 
 
 ## 🤔 The Problem
