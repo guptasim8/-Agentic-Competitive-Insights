@@ -13,7 +13,8 @@
   - [Experience Agents in Action](#experience-agents-in-action)
 
 ## 🏛 Architecture  
-![Competitive Analysis Architecture drawio](https://github.ibm.com/user-attachments/assets/39d11294-f75d-482d-a94d-80e0511a5aa7)
+
+![Competitive Analysis Architecture drawio](https://github.com/guptasim8/-Agentic-Competitive-Insights/blob/main/assets/39d11294-f75d-482d-a94d-80e0511a5aa7.png)
 
 ## Use Case Description
 
