@@ -236,7 +236,7 @@ This agent will pull information from ABC Robots catalog of product. In real lif
 <br>
 <br>
 
-<img width="1187" alt="Screenshot 2025-10-01 at 10 58 12 AM" src="https://github.ibm.com/skol/agentic-ai-client-bootcamp/assets/12043/37dbc688-a5b7-4835-8564-07637ea5a57b">
+<img width="1187" alt="Screenshot 2025-10-01 at 10 58 12 AM" src="https://github.com/guptasim8/-Agentic-Competitive-Insights/blob/main/assets/37dbc688-a5b7-4835-8564-07637ea5a57b.png">
 
 <br>
 <br>
